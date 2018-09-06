@@ -50,7 +50,8 @@ h.	NumberFormatException <br>
 Terjadi saat kita mencoba mengubah String menjadi nilai angka namun String tersebut tidak terformat dengan benar.<br>
 i.	IOException<br>
 Terjadi bila ada I/O error, seperti gagal menemukan dan membuka file. User memasukkan input yang tidak valid. Subkelas ini memiliki beberapa subkelas lain, seperti InterruptedIOException, EOFException, serta FileNotFoundException.<br>
-![alt text](https://github.com/Raditya44/Jobsheet5/blob/master/TP1.PNG)<br>
 3.	Buatlah dua program exception handling dengan menggunakan try catch finally dan throw throws (2 jenis exception)!<br>
-
+![alt text](https://github.com/Raditya44/Jobsheet5/blob/master/TP1.PNG)<br>
+Contoh penggunaan ArithmeticException dimana bilangan integer dibagi dengan 0<br>
+![alt text](https://github.com/Raditya44/Jobsheet5/blob/master/TP2.PNG)<br>
 
