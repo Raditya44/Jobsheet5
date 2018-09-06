@@ -54,4 +54,5 @@ Terjadi bila ada I/O error, seperti gagal menemukan dan membuka file. User memas
 ![alt text](https://github.com/Raditya44/Jobsheet5/blob/master/TP1.PNG)<br>
 Contoh penggunaan ArithmeticException dimana bilangan integer dibagi dengan 0<br>
 ![alt text](https://github.com/Raditya44/Jobsheet5/blob/master/TP2.PNG)<br>
+Contoh penggunaan Throw bila kita menginputkan bilangan 0 maka kesalahan akan dilempar dan muncul pemberitahuan "masukkan bilangan selain 0"<br>
 
